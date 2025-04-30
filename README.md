@@ -1,4 +1,4 @@
-<h1 align="center">CoAI Platform</h1>
+<h1 align="center">ZoAI Platform</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CoAIworld/CoAI/main/frontend/public/assets/logo-enhanced.svg" width="180" alt="CoAI Logo"/>
@@ -8,15 +8,14 @@
   <h3>A decentralized artificial intelligence collaboration platform built on Solana</h3>
 
   <p align="center">
-    <a href="https://www.coai.world/" target="_blank">Website</a> •
-    <a href="https://x.com/coai_world" target="_blank">Twitter</a> •
-    <a href="https://github.com/CoAIworld/CoAI" target="_blank">GitHub</a>
+    <a href="[https://zoai.pro" target="_blank">Website</a> •
+    <a href="https://x.com/ZoAI_pro" target="_blank">Twitter</a> •
   </p>
 </div>
 
 ## Project Overview
 
-The CoAI platform facilitates collaboration between humans and AI, allowing users to create, accept, and complete various tasks while receiving fair compensation. The platform uses blockchain technology to ensure transparency and security, and provides a skill graph and reputation system to improve collaboration quality.
+The ZoAI platform facilitates collaboration between humans and AI, allowing users to create, accept, and complete various tasks while receiving fair compensation. The platform uses blockchain technology to ensure transparency and security, and provides a skill graph and reputation system to improve collaboration quality.
 
 ## Core Features
 
@@ -27,9 +26,9 @@ The CoAI platform facilitates collaboration between humans and AI, allowing user
 - **Reviews & Feedback**: Rating system after task completion
 - **Transaction History**: Complete transaction records and details
 
-## $CoAI Token
+## $ZoAI Token
 
-The platform is powered by the $CoAI token, which serves as the primary medium of exchange within the ecosystem. For detailed information about the token, see [TOKEN.md](./TOKEN.md).
+The platform is powered by the $ZoAI token, which serves as the primary medium of exchange within the ecosystem. For detailed information about the token, see [TOKEN.md](./TOKEN.md).
 
 ## System Architecture
 
@@ -64,7 +63,7 @@ The platform is powered by the $CoAI token, which serves as the primary medium o
 │  │      MongoDB         │    │      │  │  Solana Smart Contracts     │  │
 │  └──────────────────────┘    │      │  │                             │  │
 │                               │      │  │  ┌───────────────────────┐  │  │
-│  ┌──────────────────────┐    │      │  │  │  CoAI Token Program   │  │  │
+│  ┌──────────────────────┐    │      │  │  │  ZoAI Token Program   │  │  │
 │  │  User/Task Models    │    │      │  │  └───────────────────────┘  │  │
 │  └──────────────────────┘    │      │  │                             │  │
 │                               │      │  │  ┌───────────────────────┐  │  │
@@ -105,7 +104,7 @@ The platform is powered by the $CoAI token, which serves as the primary medium o
 ## Project Structure
 
 ```
-coai-project/
+ZoAI-project/
 ├── frontend/                 # Frontend React application
 │   ├── src/
 │   │   ├── assets/           # Static assets like images
@@ -135,7 +134,7 @@ coai-project/
 │
 ├── contracts/                # Solana smart contracts
 │   ├── programs/
-│   │   ├── coai-token/       # $CoAI token implementation
+│   │   ├── ZoAI-token/       # $ZoAI token implementation
 │   │   └── task-manager/     # Task marketplace contract
 │   └── tests/                # Contract test files
 │
@@ -153,7 +152,7 @@ coai-project/
 ├── jest.config.js            # Jest test configuration
 ├── tsconfig.json             # TypeScript configuration
 ├── package.json              # Root package.json for workspaces
-├── TOKEN.md                  # $CoAI token documentation
+├── TOKEN.md                  # $ZoAI token documentation
 └── README.md                 # This file
 ```
 
@@ -207,7 +206,7 @@ coai-project/
 
 ## Core API Endpoints
 
-The CoAI platform provides a comprehensive API. Detailed documentation for each endpoint can be found in the `/docs/api/` directory:
+The ZoAI platform provides a comprehensive API. Detailed documentation for each endpoint can be found in the `/docs/api/` directory:
 
 - Authentication: [/docs/api/auth.md](./docs/api/auth.md)
 - User Management: [/docs/api/users.md](./docs/api/users.md)
@@ -228,8 +227,8 @@ The CoAI platform provides a comprehensive API. Detailed documentation for each 
 For a streamlined setup process:
 ```bash
 # Clone the repository
-git clone https://github.com/CoAIworld/CoAI.git
-cd CoAI
+git clone https://github.com/zo-pro/ZoAI.git
+cd ZoAI
 
 # Make the setup script executable
 chmod +x setup.sh
@@ -291,13 +290,12 @@ npm run test:frontend
 
 ## Connect With Us
 
-- **Website**: [https://www.coai.world/](https://www.coai.world/)
-- **Twitter**: [@coai_world](https://x.com/coai_world)
-- **GitHub**: [CoAIworld/CoAI](https://github.com/CoAIworld/CoAI)
+- **Website**: [https://zoai.pro/](https://zoai.pro/)
+- **Twitter**: [https://x.com/ZoAI_pro](https://x.com/ZoAI_pro))
 
 ## Contributing
 
-We welcome contributions to the CoAI platform! Please see our [Contributing Guide](./CONTRIBUTING.md) for details on how to get started.
+We welcome contributions to the ZoAI platform! Please see our [Contributing Guide](./CONTRIBUTING.md) for details on how to get started.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
