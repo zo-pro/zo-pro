@@ -1,7 +1,7 @@
 <h1 align="center">ZoAI Platform</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CoAIworld/CoAI/main/frontend/public/assets/logo-enhanced.svg" width="180" alt="CoAI Logo"/>
+  <img src="https://raw.githubusercontent.com/CoAIworld/CoAI/main/frontend/public/assets/zoai_logo.png" width="180" alt="CoAI Logo"/>
 </p>
 
 <div align="center">
