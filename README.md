@@ -8,7 +8,7 @@
   <h3>A decentralized artificial intelligence collaboration platform built on Solana</h3>
 
   <p align="center">
-    <a href="[https://zoai.pro" target="_blank">Website</a> •
+    <a href="https://zoai.pro" target="_blank">Website</a> •
     <a href="https://x.com/ZoAI_pro" target="_blank">Twitter</a> •
   </p>
 </div>
