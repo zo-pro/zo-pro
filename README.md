@@ -291,7 +291,7 @@ npm run test:frontend
 ## Connect With Us
 
 - **Website**: [https://zoai.pro/](https://zoai.pro/)
-- **Twitter**: [https://x.com/ZoAI_pro](https://x.com/ZoAI_pro))
+- **Twitter**: [https://x.com/ZoAI_pro](https://x.com/ZoAI_pro)
 
 ## Contributing
 
